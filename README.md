@@ -74,4 +74,4 @@ Filtering row volumes for separate product lines exposes item popularity variati
 
 **Dashboard Preview**
 
-![Dashboard Snapshot]()
+![Dashboard Snapshot](https://github.com/the-sejal/pizza-sales-dashboard/blob/main/pizza%20dashboard.png)
